@@ -34,7 +34,7 @@ c = speed of light
 
 Taking:
 
-v = [-5000, -2000, 0, 2000, 5000]
+v = [-2000000, 0, 2000000]
 
 Graph at each radial velocity to see line shift in absorption.
 
